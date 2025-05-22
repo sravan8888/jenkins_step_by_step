@@ -1,0 +1,42 @@
+all details related to jenkins dashboard:
+after enter the http://ip_address:8080 we can see the main dashboard. jenkins main dashboard have 
+* new item
+* build history
+* manage jenkins
+* my views 
+  1. Main Menu (Left Sidebar)
+New Item: Create a new job or pipeline.
+People: View all users.
+Build History: Shows recent builds with status (green ✔️ = success, red ❌ = fail).
+Manage Jenkins: Admin area (plugins, security, configuration).
+My Views: Customize dashboard views.
+Credentials: Manage secrets (passwords, keys).
+
+2. Main Panel (Center Area)
+Job List: All configured jobs/pipelines with:
+Name
+Weather Icon (health of the job)
+Last success/failure
+Last duration
+Build Now button
+
+3. Build Status Icons
+✅ or 🟢 – Success
+❌ or 🔴 – Failed
+🟡 – Unstable (e.g., test failures)
+⚪ – Not built
+🔵 – Running
+
+4. Search Bar (Top-Right)
+Quickly search for jobs, plugins, settings.
+
+5. User Menu
+Profile settings
+
+
+
+
+
+
+
+
