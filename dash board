@@ -33,6 +33,18 @@ Quickly search for jobs, plugins, settings.
 5. User Menu
 Profile settings
 
+>> while click on new item we can see different coloms like 
+enter an item name which is related to your job name for your identification 
+after that name we have select an item type 
+1. freestyle project
+2.pipeline 
+3.multi-configuration project
+4.folder 
+5.multibranch pipeline
+6.organization folder 
+as per requirement we can create project job.
+>>also we hava another option that is we have another which have proper configuration.if you want to copy any configyration settings from that item type and we can configure easyly
+
 
 
 
