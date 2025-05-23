@@ -45,6 +45,14 @@ after that name we have select an item type
 as per requirement we can create project job.
 >>also we hava another option that is we have another which have proper configuration.if you want to copy any configyration settings from that item type and we can configure easyly
 
+let's Discuss about freestyle project first. after creating the first freestyle project inside we can see different options those are
+1. description(explain why this particular job created in description for others to easy to identify)
+2. Discard old builds
+   every build in the project when we click on build option on project it stores data log regarding the build by that it stores
+   lot of space. to clear those type of builds logs we can use discard build logs.
+
+
+
 
 
 
