@@ -50,6 +50,8 @@ let's Discuss about freestyle project first. after creating the first freestyle 
 2. Discard old builds
    every build in the project when we click on build option on project it stores data log regarding the build by that it stores
    lot of space. to clear those type of builds logs we can use discard build logs.
+   > ultimately if you want your project work with high speed you can control build logs by buy deleteing the unnessary ones.
+     by doing that it will free up your space and performace as well.
 
 
 
