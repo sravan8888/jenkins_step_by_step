@@ -52,7 +52,12 @@ let's Discuss about freestyle project first. after creating the first freestyle 
    lot of space. to clear those type of builds logs we can use discard build logs.
    > ultimately if you want your project work with high speed you can control build logs by buy deleteing the unnessary ones.
      by doing that it will free up your space and performace as well.
-
+>>>>>
+2. Github Project:
+The "GitHub project" checkbox in Jenkins Freestyle Project configuration is simply a way to link your Jenkins job with a GitHub repository.
+It does not clone the code or configure Git SCM — it’s only metadata used for UI and integration purposes.
+>in simple note github project will create a icon on jenkins dashbord for easy excessing the github. it will have github icon 
+when click on the icon it will directly take it into github project repo.
 
 
 
